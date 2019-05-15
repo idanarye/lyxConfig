@@ -349,4 +349,5 @@ Format 4
 \bind "C-M-y" "line-end"
 \bind "C-M-o" "line-begin"
 \bind "M-comma" "math-insert \\prime"
+\bind "C-j" "math-insert \\mathrm"
 
