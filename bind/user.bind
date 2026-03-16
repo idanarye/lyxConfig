@@ -317,7 +317,7 @@ Format 5
 \bind "M-g S-w" "math-insert \\Omega"
 \bind "M-g S-x" "math-insert \\Xi"
 \bind "M-g S-y" "math-insert \\Psi"
-\bind "M-g M-g d" "math-insert \\nabla"
+\bind "M-g C-d" "math-insert \\nabla"
 \bind "C-M-Return" "tabular-feature append-column"
 \bind "M-q" "language hebrew"
 \bind "S-space" "font-default"
