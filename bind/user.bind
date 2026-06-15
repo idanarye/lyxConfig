@@ -62,6 +62,7 @@ Format 5
 \bind "M-m M-b y" "command-sequence math-insert \\mathbb{Y}"
 \bind "M-m M-b z" "command-sequence math-insert \\mathbb{Z}"
 \bind "M-m M-b r" "command-sequence math-insert \\mathbb{R}"
+\bind "M-m M-b 1" "command-sequence math-insert \\mathds{1}"
 \bind "M-m M-c a" "command-sequence math-insert \\mathcal{A}"
 \bind "M-m M-c b" "command-sequence math-insert \\mathcal{B}"
 \bind "M-m M-c c" "command-sequence math-insert \\mathcal{C}"
